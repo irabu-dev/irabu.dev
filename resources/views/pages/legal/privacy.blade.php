@@ -34,14 +34,14 @@
 
                     <h2>Who processes your personal data?</h2>
 
-                    <p>The website spatie.be is an initiative of: </p>
+                    <p>The website irabu.dev is an initiative of: </p>
                     <address>
                         SPATIE BVBA<br>
                         Samberstraat 69D<br>
                         2060 Antwerpen<br>
                         Belgium<br>
                         VAT: BE0809.387.596<br>
-                        Email: <a href="mailto:info@spatie.be">info@spatie.be</a><br>
+                        Email: <a href="mailto:info@irabu.dev">info@irabu.dev</a><br>
                         Telephone: +32 3 292 56 79 <br>
                     </address>
 
@@ -121,7 +121,7 @@
 
                     <h3>The right to access/rectification/erasure of your personal data</h3>
                     <p>
-                        With proof of your identity as a User, you have the right to receive from SPATIE an answer on whether or not to process your personal data. When SPATIE processes your data, you furthermore have the right to inspect the personal data collected. If you wish to use your right of access, SPATIE will pursue the matter within one (1) month after receiving the request. The application is done via registered mail or by sending an email to  <a href="mailto:info@spatie.be">info@spatie.be</a>
+                        With proof of your identity as a User, you have the right to receive from SPATIE an answer on whether or not to process your personal data. When SPATIE processes your data, you furthermore have the right to inspect the personal data collected. If you wish to use your right of access, SPATIE will pursue the matter within one (1) month after receiving the request. The application is done via registered mail or by sending an email to  <a href="mailto:info@irabu.dev">info@irabu.dev</a>
                     </p>
                     <p>
                         Inaccurate or incomplete personal data can always be corrected. It is up to the User in the first place to correct inaccuracies and incomplete information himself. You can exercise your right to make corrections by providing an additional statement to SPATIE. SPATIE will pursue the matter within one (1) month after receiving the additional report.
@@ -170,7 +170,7 @@
                         The User has the right at all times to object to the processing of his personal data. SPATIE then ceases the processing of your personal data, unless SPATIE has compelling justified grounds for the processing of your personal data that can outweigh the User's right to object.
                     </p>
                     <p>
-                        If the User wishes to exercise these rights, SPATIE will pursue the matter within one (1) month after receiving the request. The application is done via registered mail or by sending an e-mail to <a href="mailto:info@spatie.be">info@spatie.be</a>.
+                        If the User wishes to exercise these rights, SPATIE will pursue the matter within one (1) month after receiving the request. The application is done via registered mail or by sending an e-mail to <a href="mailto:info@irabu.dev">info@irabu.dev</a>.
                     </p>
 
                     <h3>Right to data transferability</h3>
@@ -178,14 +178,14 @@
                         The User has the right to receive the personal data provided to SPATIE in a structured, common and machine-readable form. In addition, the User has the right to transfer this personal data to another controller when the processing of personal data solely rests on the permission obtained from the User.
                     </p>
                     <p>
-                        If the User wishes to exercise these rights, SPATIE will pursue the matter within one (1) month after receiving the request. The application is done via registered mail or by sending an e-mail to <a href="mailto:info@spatie.be">info@spatie.be</a>.
+                        If the User wishes to exercise these rights, SPATIE will pursue the matter within one (1) month after receiving the request. The application is done via registered mail or by sending an e-mail to <a href="mailto:info@irabu.dev">info@irabu.dev</a>.
                     </p>
                     <h3>Right on the withdrawal of my consent/right to complaint</h3>
                     <p>
                         The User has the right at all times to withdraw his consent. The withdrawal of the consent leaves the lawfulness of the processing on the basis of consent before the repeal of it without prejudice. In addition, the User has the right to file a complaint concerning the processing of his personal data by SPATIE with the Belgian Commission for the Protection of Privacy.
                     </p>
                     <p>
-                        If the User wishes to exercise these rights, SPATIE will pursue the matter within one (1) month after receiving the request. The application is done via registered mail or by sending an e-mail to <a href="mailto:info@spatie.be">info@spatie.be</a>.
+                        If the User wishes to exercise these rights, SPATIE will pursue the matter within one (1) month after receiving the request. The application is done via registered mail or by sending an e-mail to <a href="mailto:info@irabu.dev">info@irabu.dev</a>.
                     </p>
                 </div>
             </div>

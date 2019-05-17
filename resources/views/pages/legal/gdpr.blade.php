@@ -26,7 +26,7 @@
 
                     <p>The contact person for questions relating to this addendum is:</p>
                     <address>
-                        E-mail: <a href="mailto:support@spatie.be">support@spatie.be</a><br>
+                        E-mail: <a href="mailto:support@irabu.dev">support@irabu.dev</a><br>
                         +32 3 292 56 79 <br>
                         Samberstraat 69D<br>
                         2060 Antwerpen<br>

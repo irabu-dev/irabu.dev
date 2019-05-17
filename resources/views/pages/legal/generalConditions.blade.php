@@ -58,7 +58,7 @@
                             SPATIE reserves the right to refuse any order or task without giving any reason.
                         </li>
                         <li>
-                            The placing of an order or task with SPATIE is valid as the acceptance of these general sales conditions, to be consulted on the SPATIE website at <a href="https://spatie.be/legal">https://spatie.be/legal</a>.
+                            The placing of an order or task with SPATIE is valid as the acceptance of these general sales conditions, to be consulted on the SPATIE website at <a href="https://irabu.dev/legal">https://irabu.dev/legal</a>.
                         </li>
                         <li>
                             The person placing the order or task in the name of the client is assumed as being authorised. He bears together with his principal all possible responsibility vis-à-vis third parties.

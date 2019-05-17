@@ -1,6 +1,6 @@
-# The source code of spatie.be
+# The source code of irabu.dev
 
-This repo contains the source code of [our company website](https://spatie.be).
+This repo contains the source code of [our company website](https://irabu.dev).
 
 ## Postcardware
 
@@ -8,7 +8,7 @@ If you learn interesting stuff from our code, please send us a postcard from you
 
 Our address is: Spatie, Samberstraat 69D, 2060 Antwerp, Belgium.
 
-All postcards are published [on our website](https://spatie.be/en/opensource/postcards).
+All postcards are published [on our website](https://irabu.dev/en/opensource/postcards).
 
 ## Credits
 
@@ -19,7 +19,7 @@ This website was principally designed by [Willem Van Bockstal](https://github.co
 - The web application falls under the [MIT License](https://choosealicense.com/licenses/mit/)
 - The content and design are under [exclusive copyright](https://choosealicense.com/no-license/)
 
-If you'd like to reuse or repost something, feel free to hit us up at info@spatie.be. Please remember that the design is not meant to be forked!
+If you'd like to reuse or repost something, feel free to hit us up at info@irabu.dev. Please remember that the design is not meant to be forked!
 
 ## License
 

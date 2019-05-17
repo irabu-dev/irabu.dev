@@ -32,13 +32,13 @@
 
                     <h2>Who are we?</h2>
 
-                    <p>The website spatie.be is an initiative of: </p>
+                    <p>The website irabu.dev is an initiative of: </p>
                     <address>
                         SPATIE BVBA<br>
                         Samberstraat 69D<br>
                         2060 Antwerpen<br>
                         Belgium<br>
-                        E-mail: <a href="mailto:info@spatie.be">info@spatie.be</a><br>
+                        E-mail: <a href="mailto:info@irabu.dev">info@irabu.dev</a><br>
                         Telefoon: +32 3 292 56 79 <br>
                     </address>
                     <p>

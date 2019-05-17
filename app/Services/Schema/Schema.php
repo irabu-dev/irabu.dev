@@ -13,14 +13,14 @@ class Schema
     {
         return Builder::localBusiness()
             ->name('Spatie')
-            ->email('info@spatie.be')
+            ->email('info@irabu.dev')
             ->telephone('+32 3 292 56 79')
             ->vatID('BE0809.387.596')
             ->url([
-                'https://spatie.be',
+                'https://irabu.dev',
                 'https://twitter.com/spatie_be',
             ])
-            ->image('https://spatie.be/images/og-image.jpg')
+            ->image('https://irabu.dev/images/og-image.jpg')
             ->address($this->address())
             ->founders($this->founders())
             ->employees($this->employees());

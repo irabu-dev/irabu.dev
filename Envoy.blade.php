@@ -1,8 +1,8 @@
 @setup
-$server = "spatie.be";
+$server = "irabu.dev";
 $userAndServer = 'forge@'. $server;
-$repository = "spatie/spatie.be";
-$baseDir = "/home/forge/spatie.be";
+$repository = "spatie/irabu.dev";
+$baseDir = "/home/forge/irabu.dev";
 $releasesDir = "{$baseDir}/releases";
 $currentDir = "{$baseDir}/current";
 $newReleaseName = date('Ymd-His');

@@ -18,7 +18,7 @@
                         </a>
                     </div>
                     <div>
-                        <a href="mailto:info@spatie.be">info@spatie.be</a>
+                        <a href="mailto:info@irabu.dev">info@irabu.dev</a>
                         <br>
                         <a href="#tel">+32 3 292 56 79</a>
                     </div>
