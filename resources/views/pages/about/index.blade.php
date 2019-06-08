@@ -1,7 +1,7 @@
 @extends('layout.default', [
     'background' => '/backgrounds/about.jpg',
     'title' => 'About us',
-    'description' => 'Contact us on info@irabu.dev or +32 3 292 56 79. See our contact details, vacancies and get to know our team.',
+    'description' => 'Contact us on info@irabu.dev or +255 716 223 723. See our contact details, vacancies and get to know our team.',
 ])
 
 @section('content')

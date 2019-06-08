@@ -8,9 +8,9 @@
                     <div>
                         <a class="group flex items-end | md:flex-row-reverse" href="https://goo.gl/maps/Qe39fmR5RTC2" target="_blank" rel="nofollow noreferrer noopener">
                             <span>
-                                Samberstraat 69D
+                                Irabu Systems ltd
                                 <br>
-                                2060 Antwerp, Belgium
+                                Makingira Street, Dar es Salaam
                             </span>
                             <span class="icon px-2 fill-grey-lighter group-hover:fill-pink transition-fill transition-fast | print:hidden">
                                 {{ svg('icons/fas-map-marker-alt') }}
@@ -20,27 +20,22 @@
                     <div>
                         <a href="mailto:info@irabu.dev">info@irabu.dev</a>
                         <br>
-                        <a href="#tel">+32 3 292 56 79</a>
+                        <a href="#tel">+255 716 223 723</a>
                     </div>
                 </address>
                 <ul class="hidden grid-flow-column gapx-8 | sm:block md:order-0 md:grid | print:hidden">
                     <li>
-                        <a href="https://github.com/spatie" target="_blank" rel="nofollow noreferrer noopener">
+                        <a href="https://github.com/irabu-dev" target="_blank" rel="nofollow noreferrer noopener">
                             GitHub
                         </a>
                     </li>
                     <li>
-                        <a href="https://www.instagram.com/spatie_be" target="_blank" rel="nofollow noreferrer noopener">
+                        <a href="https://www.instagram.com/irabudev" target="_blank" rel="nofollow noreferrer noopener">
                             Instagram
                         </a>
                     </li>
                     <li>
-                        <a href="https://patreon.com/spatie" target="_blank" rel="nofollow noreferrer noopener">
-                            Patreon
-                        </a>
-                    </li>
-                    <li>
-                        <a href="https://twitter.com/spatie_be" target="_blank" rel="nofollow noreferrer noopener">
+                        <a href="https://twitter.com/irabudev" target="_blank" rel="nofollow noreferrer noopener">
                             Twitter
                         </a>
                     </li>
