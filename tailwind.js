@@ -65,7 +65,7 @@ var colors = {
     'blue-lightest': '#cae1e8',
     'blue-lighter': '#22a4c9',
     'blue-light': '#22a4c9',
-    blue: '#197593',
+    blue: '#4098E5',
     'blue-dark': '#004966',
     'blue-darker': '#172a3d',
     'blue-darkest': '#172a3d',
