@@ -30,12 +30,12 @@
                         </a>
                     </li>
                     <li>
-                        <a href="https://www.instagram.com/irabudev" target="_blank" rel="nofollow noreferrer noopener">
+                        <a href="https://www.instagram.com/irabusys" target="_blank" rel="nofollow noreferrer noopener">
                             Instagram
                         </a>
                     </li>
                     <li>
-                        <a href="https://twitter.com/irabudev" target="_blank" rel="nofollow noreferrer noopener">
+                        <a href="https://twitter.com/irabusys" target="_blank" rel="nofollow noreferrer noopener">
                             Twitter
                         </a>
                     </li>
