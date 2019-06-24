@@ -2,7 +2,7 @@
     <span>
         <a class="link link-black" href="mailto:info@irabu.dev">info@irabu.dev</a>
         <br>
-        <a class="link link-black" href="https://twitter.com/intent/tweet?text=Dear+@irabusys+…" target="_blank" rel="noreferrer noopener">@irabudev</a>
+        <a class="link link-black" href="https://twitter.com/intent/tweet?text=Dear+@irabudev+…" target="_blank" rel="noreferrer noopener">@irabudev</a>
         <br>
         <a class="link link-black" href="#tel">+255 716 223 723</a>
     </span>
