@@ -9,7 +9,7 @@ class MembersSeeder extends Seeder
         'julius@irabu.co.tz' => [
             'first_name' => 'Julius',
             'last_name' => 'Theodore Moshiro',
-            'role' => 'Backend developer',
+            'role' => 'Senior Captain',
             'description' => 'Julius is our godfather of backend code.',
             'twitter' => 'juliusmoshiro ',
             'website' => 'https://k15.photos',
@@ -20,10 +20,10 @@ class MembersSeeder extends Seeder
         'emmanuel@irabu.co.tz' => [
             'first_name' => 'Emmanuel',
             'last_name' => 'Evance',
-            'role' => 'Full stack developer',
-            'description' => 'Mtuchi really earns the label ‘full stack’. Throw anything at this guy and he\'ll kick it back to you as a component.',
+            'role' => 'Operations Lead',
+            'description' => 'He play around with technology to build cool and simple stuff to our everyday life challenges',
             'twitter' => 'mtuchidev',
-            'website' => 'https://mtuchi.github.io',
+            'website' => 'https://mtuchi.dev',
             'founder' => true,
             'public_email' => true,
         ],
@@ -31,9 +31,9 @@ class MembersSeeder extends Seeder
         'lupyana@irabu.co.tz' => [
             'first_name' => 'Lupyana',
             'last_name' => 'Nabothi Mbembati',
-            'role' => 'Frontend designer',
-            'description' => 'You ended up in this particular place on the internet because Willem created this site. And this company. Is there something this guy can\'t do?',
-            'twitter' => 'lupyana',
+            'role' => 'Fullstack Developer',
+            'description' => 'Is there something this guy can\'t do? 🤔',
+            'twitter' => '_lupyana',
             'founder' => true,
             'public_email' => true,
         ],
@@ -41,9 +41,9 @@ class MembersSeeder extends Seeder
         'nyiti@irabu.co.tz' => [
             'first_name' => 'Stewart',
             'last_name' => 'Raymond Nyiti',
-            'role' => 'Project Manager',
-            'description' => 'Who needs a status board when you have Wouter? This fellow knows a thing or 2 about closing Basecamp tickets.',
-            'twitter' => 'nyiti',
+            'role' => 'Developer',
+            'description' => 'He work in different timezone, When everybody is asleep he is debuging some code.',
+            'twitter' => '',
             'public_email' => true,
         ],
     ];
