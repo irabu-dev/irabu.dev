@@ -21,19 +21,19 @@
             <div class="wrap">
                 <div class="markup markup-titles counters markup-lists links-underline links-blue">
                     <p>
-                        This addendum is part of the <a href="{{ route('legal.conditions') }}">General Terms and Conditions</a> between SPATIE BVBA and the customer (hereinafter referred to as: "<strong>Controller</strong>") with respect to the processing of Personal Data. By agreeing with the terms and conditions, of which this addendum is a part, the customer also agrees with the below listed provisions with regard to the processing of Personal Data by SPATIE BVBA.
+                        This addendum is part of the <a href="{{ route('legal.conditions') }}">General Terms and Conditions</a> between Irabu Systems Ltd and the customer (hereinafter referred to as: "<strong>Controller</strong>") with respect to the processing of Personal Data. By agreeing with the terms and conditions, of which this addendum is a part, the customer also agrees with the below listed provisions with regard to the processing of Personal Data by Irabu Systems Ltd.
                     </p>
 
                     <p>The contact person for questions relating to this addendum is:</p>
                     <address>
-                        E-mail: <a href="mailto:support@irabu.dev">support@irabu.dev</a><br>
-                        +32 3 292 56 79 <br>
-                        Samberstraat 69D<br>
-                        2060 Antwerpen<br>
-                        Belgium<br>
+                        E-mail: <a href="mailto:support@irabu.co.tz">support@irabu.co.tz</a><br>
+                        +255 716 223 723 <br>
+                        Makingira Street<br>
+                        Dar es Salaam<br>
+                        Tanzania<br>
                     </address>
                     <p>
-                        <strong>Between SPATIE BVBA and the Controller</strong>
+                        <strong>Between Irabu Systems Ltd and the Controller</strong>
                     </p>
 
                     <p>
@@ -102,7 +102,7 @@
                             processed data.
                         </li>
                         <li>
-                            <strong>Supervisory authority</strong>: in Belgium this is the Commission for the
+                            <strong>Supervisory authority</strong>: in Tanzania this is the Commission for the
                             Protection of Privacy, starting from 25 May 2018 it will be reformed into the
                             Data Protection Authority.
                         </li>

@@ -52,7 +52,7 @@
 
                             <div>
                                 <label class="text-grey" for="country">Country</label><br/>
-                                <input class="border-2 border-grey-lighter bg-white rounded p-4 outline-0 w-full focus:border-blue" type="text" name="country" placeholder="Belgium">
+                                <input class="border-2 border-grey-lighter bg-white rounded p-4 outline-0 w-full focus:border-blue" type="text" name="country" placeholder="Tanzania">
                             </div>
                         </div>
                     </fieldset>

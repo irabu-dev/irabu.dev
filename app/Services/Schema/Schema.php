@@ -32,8 +32,8 @@ class Schema
             ->addressLocality('Antwerp')
             ->addressRegion('Antwerp')
             ->postalCode(2060)
-            ->streetAddress('Samberstraat 69D')
-            ->addressCountry('Belgium');
+            ->streetAddress('Makingira Street')
+            ->addressCountry('Tanzania');
     }
 
     protected function founders(): array
