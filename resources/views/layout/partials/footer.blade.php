@@ -30,6 +30,11 @@
                         </a>
                     </li>
                     <li>
+                        <a href="https://linkedin.com/company/irabu" target="_blank" rel="nofollow noreferrer noopener">
+                            Linkedin
+                        </a>
+                    </li>
+                    <li>
                         <a href="https://www.instagram.com/irabudev" target="_blank" rel="nofollow noreferrer noopener">
                             Instagram
                         </a>
