@@ -13,7 +13,7 @@ class Schema
     {
         return Builder::localBusiness()
             ->name('Spatie')
-            ->email('info@irabu.dev')
+            ->email('info@irabu.co.tz')
             ->telephone('+32 3 292 56 79')
             ->vatID('BE0809.387.596')
             ->url([

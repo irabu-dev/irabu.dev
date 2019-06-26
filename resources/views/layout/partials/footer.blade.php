@@ -18,7 +18,7 @@
                         </a>
                     </div>
                     <div>
-                        <a href="mailto:info@irabu.dev">info@irabu.dev</a>
+                        <a href="mailto:info@irabu.co.tz">info@irabu.co.tz</a>
                         <br>
                         <a href="#tel">+255 716 223 723</a>
                     </div>

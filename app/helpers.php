@@ -55,7 +55,7 @@ function mailto(string $subject, string $body): string
 
     $body = rawurlencode(htmlspecialchars_decode($body));
 
-    return "mailto:info@irabu.dev?subject={$subject}&body={$body}" ;
+    return "mailto:info@irabu.co.tz?subject={$subject}&body={$body}" ;
 }
 
 function schema(): Schema

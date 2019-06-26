@@ -38,7 +38,7 @@
                         Samberstraat 69D<br>
                         2060 Antwerpen<br>
                         Belgium<br>
-                        E-mail: <a href="mailto:info@irabu.dev">info@irabu.dev</a><br>
+                        E-mail: <a href="mailto:info@irabu.co.tz">info@irabu.co.tz</a><br>
                         Telefoon: +32 3 292 56 79 <br>
                     </address>
                     <p>

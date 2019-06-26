@@ -1,6 +1,6 @@
 <p class="text-2xl mt-12 grid-rows gapx-16 gapy-4 | md:mt-16 md:grid-cols justify-start items-start" style="--cols: auto auto auto">
     <span>
-        <a class="link link-black" href="mailto:info@irabu.dev">info@irabu.dev</a>
+        <a class="link link-black" href="mailto:info@irabu.co.tz">info@irabu.co.tz</a>
         <br>
         <a class="link link-black" href="https://twitter.com/intent/tweet?text=Dear+@irabudev+…" target="_blank" rel="noreferrer noopener">@irabudev</a>
         <br>
