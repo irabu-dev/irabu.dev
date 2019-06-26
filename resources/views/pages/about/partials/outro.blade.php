@@ -8,19 +8,18 @@
         <div class="sm:spanx-4">
             <div class="markup links-underline links-blue">
                 <p class="text-lg">
-                    We design, build and support websites, and applications —since 20014.
+                    We are a creative digital agency with a core quest of <strong>build for simplicity</strong> — since 2014.
                 </p>
                 <p class="text-lg">
-                    We prefer analysis, clear-cut advice and solid technology over momentary fads. Our sites are built with modern standards, and optimized for performance on all types of devices.
+                    We use human-centered software design tools and techniques to gain a better understanding of users needs and improve the efficacy of their products.
                 </p>
                 <p class="text-lg">
-                    Almost every aspect of our job builds upon the work of others.
-                    We greatly value open source and try to give back to the community whenever possible.
+                    We work hand in hand with our clients to help them boost their businesses by creating exceptional digital solutions.
                 </p>
                 <p class="text-lg">
-                    There is a strong mentality to stay on top of things: through Slack, in-house presentations or conferences.
-                    A part of our workload is dedicated to open source and side projects.
-                    You can spot team members in user groups or as conference speakers as well.
+                    The Irabu team consists of designers, developers, technologists, strategists, engineers to writers, 
+                    With a strong mentality to stay on of things.
+                    But most of all we are thirsty problem solvers with an innate desire to simplify. 
                 </p>
             </div>
         </div>
