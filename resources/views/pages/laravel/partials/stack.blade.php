@@ -8,11 +8,8 @@
                 <h3 class="title-sm">Frontend</h3>
                 <ul class="bullets-inline bullets-blue">
                     <li>Vue.js</li>
-                    <li>React</li>
-                    <li>React Native</li>
                     <li>Vanilla JS</li>
                     <li>Tailwind CSS</li>
-                    <li>PostCSS</li>
                     <li>Laravel Mix</li>
                     <li>npm</li>
                     <li>Yarn</li>
@@ -23,7 +20,6 @@
                     <li>MailChimp</li>
                     <li>Sendgrid</li>
                     <li>Google Analytics</li>
-                    <li>Google Tag Manager</li>
                 </ul>
             </div>
         </div>
@@ -32,23 +28,15 @@
                 <h3 class="title-sm">Backend</h3>
                 <ul class="bullets-inline bullets-blue">
                     <li>Laravel</li>
-                    <li>Laravel Spark</li>
-                    <li>Laravel Nova</li>
                     <li>PHP</li>
                     <li>MySQL</li>
                     <li>Algolia</li>
                     <li>Elasticsearch</li>
+                    <li>Neo4J</li>
                 </ul>
                 <h3 class="title-sm">Integrations</h3>
                 <ul class="bullets-inline bullets-blue">
-                    <li>Stripe</li>
-                    <li>Ingenico</li>
-                    <li>Mollie</li>
-                    <li>Salesforce</li>
-                    <li>Teamleader</li>
-                    <li>Exact Online</li>
-                    <li>Laravel Spark</li>
-                    <li>Urban Airship</li>
+                    <li>Mobile Payment API</li>
                 </ul>
             </div>
         </div>
@@ -57,7 +45,6 @@
                 <h3 class="title-sm">Server</h3>
                 <ul class="bullets-inline bullets-blue">
                     <li>Digital Ocean</li>
-                    <li>Laravel Forge</li>
                     <li>S3</li>
                     <li>Nginx</li>
                     <li>Docker</li>
