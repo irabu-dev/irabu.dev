@@ -9,8 +9,8 @@ class MembersSeeder extends Seeder
         'julius@irabu.co.tz' => [
             'first_name' => 'Julius',
             'last_name' => 'Theodore Moshiro',
-            'role' => 'Senior Captain',
-            'description' => 'Julius is our godfather of backend code.',
+            'role' => 'Founder & Managing Director',
+            'description' => 'Aspired to make simple solutions to everyday  problems',
             'twitter' => 'juliusmoshiro ',
             'website' => 'https://k15.photos',
             'founder' => true,
