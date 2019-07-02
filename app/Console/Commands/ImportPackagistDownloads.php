@@ -21,7 +21,7 @@ class ImportPackagistDownloads extends Command
 
         $packagist = new Packagist($client);
 
-        collect($packagist->getPackagesByVendor('spatie')['packageNames'])
+        collect($packagist->getPackagesByVendor('irabu-dev')['packageNames'])
             ->map(function ($packageName) use ($packagist) {
                 return $packagist->findPackageByName($packageName)['package'];
             })

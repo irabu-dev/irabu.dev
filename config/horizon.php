@@ -26,7 +26,7 @@ return [
     |
     */
 
-    'prefix' => env('HORIZON_PREFIX', 'spatie:'),
+    'prefix' => env('HORIZON_PREFIX', 'irabu:'),
 
     /*
     |--------------------------------------------------------------------------

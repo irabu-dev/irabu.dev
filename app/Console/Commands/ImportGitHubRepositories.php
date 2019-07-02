@@ -29,7 +29,7 @@ class ImportGitHubRepositories extends Command
     {
         $this->info('Syncing all public repositories...');
 
-        $repositories = $this->api->fetchPublicRepositories('spatie');
+        $repositories = $this->api->fetchPublicRepositories('irabu-dev');
 
         $repositories->each(function (array $repositoryAttributes) {
             $this->comment("Importing `{$repositoryAttributes['name']}`... ");
@@ -43,7 +43,7 @@ class ImportGitHubRepositories extends Command
             ]);
 
             $repository->setTopics(Cache::remember("repository_topics-{$repository->name}", 3600, function () use ($repository) {
-                return $this->api->fetchRepositoryTopics('spatie', $repository->name);
+                return $this->api->fetchRepositoryTopics('irabu-dev', $repository->name);
             }));
         });
 

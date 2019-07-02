@@ -1,7 +1,7 @@
 @setup
 $server = "irabu.dev";
 $userAndServer = 'forge@'. $server;
-$repository = "spatie/irabu.dev";
+$repository = "irabu-dev/irabu.dev";
 $baseDir = "/home/forge/irabu.dev";
 $releasesDir = "{$baseDir}/releases";
 $currentDir = "{$baseDir}/current";

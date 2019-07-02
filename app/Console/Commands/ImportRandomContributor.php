@@ -52,33 +52,25 @@ class ImportRandomContributor extends Command
         while ($contributors->isEmpty()) {
             $repository = Repository::get()->random();
 
-            $contributors = $this->api->fetchRepositoryContributors('spatie', $repository->name)
+            $contributors = $this->api->fetchRepositoryContributors('irabu-dev', $repository->name)
                 ->reject(function (array $contributorAttributes) {
-                    return $this->worksForSpatie($contributorAttributes['login']);
+                    return $this->worksForIrabu($contributorAttributes['login']);
                 });
         }
 
         return [$contributors->random(), $repository];
     }
 
-    public function worksForSpatie(string $username): bool
+    public function worksForIrabu(string $username): bool
     {
-        $spatieUsernames = [
-            'spatie',
-            'spatie-bot',
-            'freekmurze',
-            'sebastiandedeyne',
-            'willemvb',
-            'AlexVanderbist',
-            'brendt',
-            'JolitaGrazyte',
-            'TVke',
-            'MatthiasDeWinter',
-            'laravel-shift',
-            'Unknown',
-            'invalid-email-address',
+        $irabuUsernames = [
+            'irabu',
+            'irabu-bot',
+            'mtuchi',
+            'lupyana',
+            'juliustm',
         ];
 
-        return in_array($username, $spatieUsernames);
+        return in_array($username, $irabuUsernames);
     }
 }

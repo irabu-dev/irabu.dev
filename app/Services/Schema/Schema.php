@@ -12,13 +12,13 @@ class Schema
     public function localBusiness(): LocalBusiness
     {
         return Builder::localBusiness()
-            ->name('Spatie')
+            ->name('Irabu')
             ->email('info@irabu.co.tz')
-            ->telephone('+32 3 292 56 79')
+            ->telephone('+255 716 223 723')
             ->vatID('BE0809.387.596')
             ->url([
                 'https://irabu.dev',
-                'https://twitter.com/spatie_be',
+                'https://twitter.com/irabudev',
             ])
             ->image('https://irabu.dev/images/og-image.jpg')
             ->address($this->address())
@@ -30,8 +30,8 @@ class Schema
     {
         return Builder::postalAddress()
             ->addressLocality('Antwerp')
-            ->addressRegion('Antwerp')
-            ->postalCode(2060)
+            ->addressRegion('Dar es Salaam')
+            ->postalCode(31890)
             ->streetAddress('Makingira Street')
             ->addressCountry('Tanzania');
     }

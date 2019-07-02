@@ -12,10 +12,10 @@
 require __DIR__.'/vendor/autoload.php';
 (new \Dotenv\Dotenv(__DIR__, '.env'))->load();
 
-$server = "spatie.be";
+$server = "irabu.dev";
 $userAndServer = 'forge@'. $server;
-$repository = "spatie/spatie.be";
-$baseDir = "/home/forge/spatie.be";
+$repository = "irabu-dev/irabu.dev";
+$baseDir = "/home/forge/irabu.dev";
 $releasesDir = "{$baseDir}/releases";
 $currentDir = "{$baseDir}/current";
 $newReleaseName = date('Ymd-His');

@@ -3,7 +3,7 @@
         <div class="sm:spanx-3">
             <div class="line-l">
                 <h2 class="title-sm">
-                    <a href='https://github.com/issues?q=is%3Aopen+is%3Aissue+user%3Aspatie+is%3Apublic+label%3A%22good+first+issue%22'
+                    <a href='https://github.com/issues?q=is%3Aopen+is%3Aissue+user%3Airabu-dev+is%3Apublic+label%3A%22good+first+issue%22'
                        class="link-black">Help us out</a>
                     <div class="title-subtext text-pink-dark">
                         Good first issues to solve
@@ -28,7 +28,7 @@
                 @endforeach
                 <p class="mt-4">
                     <a class="link-underline link-blue"
-                       href="https://github.com/search?q=is%3Aopen+is%3Aissue+user%3Aspatie+is%3Apublic+label%3A%22good+first+issue%22">
+                       href="https://github.com/search?q=is%3Aopen+is%3Aissue+user%3Airabu-dev+is%3Apublic+label%3A%22good+first+issue%22">
                         All good first issues on GitHub…
                     </a>
                 </p>

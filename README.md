@@ -12,8 +12,6 @@ All postcards are published [on our website](https://irabu.dev/en/opensource/pos
 
 ## Credits
 
-This website was principally designed by [Willem Van Bockstal](https://github.com/orgs/spatie/people/willemvb). [Everyone at Irabu](https://github.com/orgs/spatie/people) has made cool contributions during development.
-
 This website was principally designed by [Willem Van Bockstal](https://github.com/orgs/spatie/people/willemvb). [Everyone at Spatie](https://github.com/orgs/spatie/people) has made cool contributions during development.
 
 ## License

@@ -7,7 +7,7 @@
             {{ $contributor->name }} <span class="icon fill-pink">{{ svg('icons/far-award') }}</span>
         </h3>
         <p class="text-xs text-grey mt-2 links-underline links-grey">
-            Thank you <a class="" href="https://github.com/{{ $contributor->username }}">{{ $contributor->styled_username }}</a> <br>for your help on <a class="" href="{{ $contributor->repository_url }}">spatie/{{ $contributor->repository_name }}</a>
+            Thank you <a class="" href="https://github.com/{{ $contributor->username }}">{{ $contributor->styled_username }}</a> <br>for your help on <a class="" href="{{ $contributor->repository_url }}">irabu-dev/{{ $contributor->repository_name }}</a>
         </p>
     </div>
 </div>

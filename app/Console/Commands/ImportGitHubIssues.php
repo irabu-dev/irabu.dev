@@ -33,7 +33,7 @@ class ImportGitHubIssues extends Command
         Repository::get()->each(function (Repository $repository) {
             $this->comment("Searching for good issues in {$repository->name}");
 
-            $issues = $this->api->fetchOpenIssues('spatie', $repository->name, ['good first issue']);
+            $issues = $this->api->fetchOpenIssues('irabu-dev', $repository->name, ['good first issue']);
 
             $this->cleanupIssuesForPackage($repository, $issues);
 

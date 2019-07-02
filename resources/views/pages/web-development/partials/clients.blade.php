@@ -8,28 +8,16 @@
                 <h3 class="title-sm">Corporate</h3>
                 <ul class="links-underline links-black">
                     <li>
-                        <a href="https://my.agrafa.be" target="_blank" rel="noreferrer noopener">Agrafa</a>
-                        <div class="text-xs text-grey">Onsite apps for banner distribution</div>
+                        <a href="https://corporatejunkie.co" target="_blank" rel="noreferrer noopener">The Corporate Junkie</a>
+                        <div class="text-xs text-grey">Aashiq Shariff</div>
                     </li>
                     <li class=mt-2>
-                        <a href="https://artassistant.com" target="_blank" rel="noreferrer noopener">ArtAssistant</a>
-                        <div class="text-xs text-grey">Art transaction platform</div>
+                        <a href="https://raha.co.tz" target="_blank" rel="noreferrer noopener">Raha</a>
+                        <div class="text-xs text-grey">Raha is a 20-year-old privately owned company based in Tanzania</div>
                     </li>
                     <li class=mt-2>
-                        <a href="https://bodartservicehouse.be" target="_blank" rel="noreferrer noopener">Bodart Service House</a>
-                        <div class="text-xs text-grey">Webshop for kitchen appliances</div>
-                    </li>
-                    <li class=mt-2>
-                        <a href="https://hpengineers.be" target="_blank" rel="noreferrer noopener">HP Engineers</a>
-                        <div class="text-xs text-grey">Portfolio of engineering company</div>
-                    </li>
-                    <li class=mt-2>
-                        <a href="https://memocards.krauthammer.com" target="_blank" rel="noreferrer noopener">Krauthammer</a>
-                        <div class="text-xs text-grey">Tools for management trainings</div>
-                    </li>
-                    <li class=mt-2>
-                        <a href="https://mutsy.com" target="_blank" rel="noreferrer noopener">Mutsy</a>
-                        <div class="text-xs text-grey">Site for high-end Dutch strollers</div>
+                        <a href="https://crdbbank.co.tz" target="_blank" rel="noreferrer noopener">CRDB Bank</a>
+                        <div class="text-xs text-grey">CRDB Bank Plc is an African bank and a leading Financial Services Provider in Tanzania </div>
                     </li>
                 </ul>
             </div>
@@ -39,24 +27,12 @@
                 <h3 class="title-sm">Public</h3>
                 <ul class="leading-loose links-underline links-black">
                     <li>
-                        <a href="https://rolesbxl.be" target="_blank" rel="noreferrer noopener">Court of Brussels</a>
-                        <div class="text-xs text-grey">Daily status board and notifications for lawyers</div>
+                        <a href="https://gepc.or.tz" target="_blank" rel="noreferrer noopener">GEPC</a>
+                        <div class="text-xs text-grey">Governance and Economic Policy Centre (GEPC) </div>
                     </li>
                     <li class=mt-2>
-                        <a href="https://hemiksem.be" target="_blank" rel="noreferrer noopener">City of Hemiksem</a>
-                        <div class="text-xs text-grey">Communal website</div>
-                    </li>
-                    <li class=mt-2>
-                        <a href="https://flux50.com" target="_blank" rel="noreferrer noopener">Flux50</a>
-                        <div class="text-xs text-grey">Smart energy consortium</div>
-                    </li>
-                    <li class=mt-2>
-                        <a href="https://vluchtelingenwerk.be" target="_blank" rel="noreferrer noopener">Vluchtelingenwerk Vlaanderen</a>
-                        <div class="text-xs text-grey">Interactive exhibition timeline</div>
-                    </li>
-                    <li class=mt-2>
-                        <a href="https://vrijwilligerswerk.be" target="_blank" rel="noreferrer noopener">Vrijwilligerswerk Vlaanderen</a>
-                        <div class="text-xs text-grey">Job platform for volunteers</div>
+                        <a href="https://hemiksem.be" target="_blank" rel="noreferrer noopener">TCSAA</a>
+                        <div class="text-xs text-grey">Tanzania Climate Smart Agriculture Alliance</div>
                     </li>
                 </ul>
             </div>
@@ -66,26 +42,9 @@
                 <h3 class="title-sm">Creative</h3>
                 <ul class="leading-loose links-underline links-black">
                     <li>
-                        <a href="https://bulkarchitecten.be" target="_blank" rel="noreferrer noopener">Bulk architects</a>
-                        <div class="text-xs text-grey">Portfolio site</div>
+                        <a href="https://78inc.co" target="_blank" rel="noreferrer noopener">78Inc</a>
+                        <div class="text-xs text-grey">Creative agency</div>
                     </li>
-                    <li class=mt-2>
-                        <a href="https://demo.stmpdrcrds.com" target="_blank" rel="noreferrer noopener">Martin Garrix</a>
-                        <div class="text-xs text-grey">Workflow tool for the DJ himself</div>
-                    </li>
-                    <li class=mt-2>
-                        <a href="https://meta.be" target="_blank" rel="noreferrer noopener">META architects</a>
-                        <div class="text-xs text-grey">Portfolio site</div>
-                    </li>
-                    <li class=mt-2>
-                        <a href="https://overlegkunsten.org" target="_blank" rel="noreferrer noopener">Overleg Kunstenorganisaties</a>
-                        <div class="text-xs text-grey">Portfolio site</div>
-                    </li>
-                    <li class=mt-2>
-                        <a href="https://wimdelvoye.be" target="_blank" rel="noreferrer noopener">Wim Delvoye</a>
-                        <div class="text-xs text-grey">Famous artist's portfolio</div>
-                    </li>
-
                 </ul>
             </div>
         </div>

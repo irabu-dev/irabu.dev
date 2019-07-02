@@ -43,12 +43,12 @@ class Repository extends Model
 
     public function getUrlAttribute(): string
     {
-        return "https://github.com/spatie/{$this->name}";
+        return "https://github.com/irabu-dev/{$this->name}";
     }
 
     public function getFullNameAttribute(): string
     {
-        return "spatie/{$this->name}";
+        return "irabu-dev/{$this->name}";
     }
 
     public function getLanguageColorAttribute(): string
