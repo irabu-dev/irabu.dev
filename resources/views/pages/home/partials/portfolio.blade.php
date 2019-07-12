@@ -1,30 +1,30 @@
 <section id="portfolio" class="section">
     <div class="wrap-8 section">
         <div class="sm:spanx-4 | md:startx-2 md:spanx-3 md:-ml-32 md:mr-16">
-            <a href="https://demo.stmpdrcrds.com" class="illustration is-left h-full" title="demo.stmpdrcrds.com">
+            <a href="https://app.gorocket.co" class="illustration is-left h-full" title="app.gorocket.co">
                 {{ image('portfolio/stmpd.jpg') }}
             </a>
         </div>
         <div class="sm:spanx-3 sm:startx-5 | self-center">
             <div class="markup links-blue links-underline">
                 <h3 class="title">
-                    Soundcloud Demo Platform
+                    Gorocket
                     <div class="title-subtext text-green-dark">
-                        <span class="font-normal">Using</span> Soundcloud, Laravel, Vue
+                        <span class="font-normal">Using</span> Neo4j, Laravel, Vue, Elasticsearch
                     </div>
                 </h3>
                 <p class="text-lg">
-                    For Martin Garrix' record label <a href="https://stmpdrcrds.com" target="_blank" rel="nofollow noreferrer noopener">stmpdcrds.com</a> we made a workflow application to streamline their demo track influx.
-                    <br>
-                    Crew members can listen and evaluate SoundCloud tracks by upcoming talents, submitted to the application.
+                    One of our proud product is <a href="https://gorocket.co" target="_blank" rel="nofollow noreferrer noopener">gorocket.co</a>.
+                    GoRocket is a simple, instinctive and customizable cloud based tool that helps you manage your leads,
+                    sales and product delivery processes; ultimately boosting sales and productivity!
                 </p>
                 <ul class="text-lg mt-8">
-                    <li><span class="icon fill-green-dark">{{ svg('icons/far-angle-right') }}</span> <a href="https://demo.stmpdrcrds.com" target="_blank" rel="nofollow noreferrer noopener">demo.stmpdrcrds.com</a></li>
+                    <li><span class="icon fill-green-dark">{{ svg('icons/far-angle-right') }}</span> <a href="https://app.gorocket.co" target="_blank" rel="nofollow noreferrer noopener">app.gorocket.co</a></li>
                 </ul>
             </div>
         </div>
     </div>
-    <div class="wrap-8 grid-flow-dense section">
+    {{-- <div class="wrap-8 grid-flow-dense section">
         <div class="sm:startx-5 sm:spanx-4 | md:spanx-3 md:ml-16 md:-mr-32">
             <a href="https://my.artassistant.com" target="_blank" rel="nofollow noreferrer noopener" class="illustration is-right h-full" title="my.artassistant.com">
                 {{ image('portfolio/artassistant.jpg') }}
@@ -47,5 +47,5 @@
                 </ul>
             </div>
         </div>
-    </div>
+    </div> --}}
 </section>
