@@ -1,0 +1,15 @@
+{
+    "name": "irabu.dev",
+    "description": "Irabu Systems Ltd",
+    "keywords": [
+    "laravel",
+    "irabu.dev",
+    "irabu"
+    ],
+    "scripts": {
+    "dokku": {
+        "predeploy": ".dokku/predeploy.sh",
+        "postdeploy": ".dokku/postdeploy.sh"
+    }
+    }
+}
