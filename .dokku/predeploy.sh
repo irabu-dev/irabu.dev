@@ -13,5 +13,3 @@ mkdir -p storage/logs
 # Create storage symlink in predeploy linking to container, not persistent storage.
 # Link target will be substituted when persistent storage is mounted.
 php artisan storage:link
-
-dokku mysql:link irabu irabu.dev
