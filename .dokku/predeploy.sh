@@ -14,4 +14,4 @@ mkdir -p storage/logs
 # Link target will be substituted when persistent storage is mounted.
 php artisan storage:link
 
-dokku mysql:link irabu irabu.dev
+# dokku mysql:link irabu irabu.dev
