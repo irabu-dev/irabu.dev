@@ -13,18 +13,4 @@
             </div>
         </div>
     </div>
-    @if($patreonPledger !== null)
-    <div class="wrap pt-16">
-        <p class="text-lg">
-            Following patreons have helped us out in a substantial way.<br>
-        </p>
-    </div>
-    <div class="wrap-6">
-        {{-- start loop for patreons --}}
-        <div class="sm:spanx-2">
-            @include('pages.open-source.partials.patreon')
-        </div>
-        {{-- end loop for patreons --}}
-    </div>
-    @endif
 </section>
