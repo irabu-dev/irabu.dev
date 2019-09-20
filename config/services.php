@@ -69,8 +69,4 @@ return [
         'token' => env('INSTAGRAM_TOKEN'),
     ],
 
-    'patreon' => [
-        'id' => env('PATREON_CLIENT_ID'),
-        'secret' => env('PATREON_SECRET'),
-    ],
 ];
