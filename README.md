@@ -2,17 +2,9 @@
 
 This repo contains the source code of [our company website](https://irabu.dev).
 
-## Postcardware
-
-If you learn interesting stuff from our code, please send us a postcard from your hometown.
-
-Our address is: Irabu Systems Ltd, Makingira Street, Dar es Salaam, Tanzania.
-
-All postcards are published [on our website](https://irabu.dev/en/opensource/postcards).
-
 ## Credits
 
-This website was principally designed by [Willem Van Bockstal](https://github.com/orgs/spatie/people/willemvb). [Everyone at Spatie](https://github.com/orgs/spatie/people) has made cool contributions during development.
+This website was designed by [Everyone at Spatie](https://github.com/orgs/spatie/people).
 
 ## License
 
