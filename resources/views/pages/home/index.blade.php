@@ -7,7 +7,7 @@
 @section('content')
 
     @include('pages.home.partials.banner')
-    @include('pages.home.partials.news')
+    {{-- @include('pages.home.partials.news') --}}
 
     <div class="section-group section-fade">
         @include('pages.home.partials.portfolio')
