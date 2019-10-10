@@ -1,3 +1,3 @@
 #!/bin/bash
 
-composer install;
+docker exec irab-dev-php-fpm composer install;

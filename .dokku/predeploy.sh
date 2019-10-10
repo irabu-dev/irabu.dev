@@ -1,7 +1,7 @@
 #!/bin/bash
 
-cp .env.example .env
+docker exec irab-dev-php-fpm cp .env.example .env
 
-composer install;
+docker exec irab-dev-php-fpm  composer install;
 
-php artisan storage:link;
+docker exec irab-dev-php-fpm php artisan storage:link;
