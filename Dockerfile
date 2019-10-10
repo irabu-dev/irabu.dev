@@ -57,4 +57,7 @@ USER www
 # Expose port 9000 and start php-fpm server
 EXPOSE 9000
 # ENTRYPOINT [""]
-CMD ["php-fpm"]
+# CMD ["php-fpm"]
+RUN cp .env.example .env
+
+RUN php artisan optimize
