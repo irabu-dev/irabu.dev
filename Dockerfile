@@ -58,6 +58,6 @@ USER www
 EXPOSE 9000
 # ENTRYPOINT [""]
 # CMD ["php-fpm"]
-RUN cp .env.example .env
+# COPY .env.example .env
 
 RUN php artisan optimize
