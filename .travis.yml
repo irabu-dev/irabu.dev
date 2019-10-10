@@ -14,7 +14,7 @@ script:
   - vendor/bin/phpunit
 
 before_install:
-  - mysql -e 'create database laravel;'
+  - mysql -e 'create database irabu;'
 
 services:
   - mysql
