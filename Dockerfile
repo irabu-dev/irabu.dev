@@ -60,4 +60,6 @@ EXPOSE 9000
 # CMD ["php-fpm"]
 # COPY .env.example .env
 
+RUN composer install
+
 RUN php artisan optimize
