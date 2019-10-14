@@ -1,12 +1,5 @@
-###############################################################################
-#                          Generated on phpdocker.io                          #
-###############################################################################
 version: "3.1"
 services:
-
-    memcached:
-      image: memcached:alpine
-      container_name: irabu-dev-memcached
 
     redis:
       image: redis:alpine
@@ -35,6 +28,10 @@ services:
           - ./phpdocker/nginx/nginx.conf:/etc/nginx/conf.d/default.conf
       ports:
        - "8000:80"
+      environment: 
+        VIRTUAL_HOST: irabu.dev
+        LETSENCRYPT_HOST: irabu.dev
+        LETSENCRYPT_EMAIL: info@irabu.co.tz
 
     php-fpm:
       build: phpdocker/php-fpm
@@ -43,4 +40,7 @@ services:
       volumes:
         - .:/application
         - ./phpdocker/php-fpm/php-ini-overrides.ini:/etc/php/7.3/fpm/conf.d/99-overrides.ini
-
+networks:
+  default:
+    external:
+      name: nginx-proxy
