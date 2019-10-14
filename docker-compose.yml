@@ -30,6 +30,7 @@ services:
        - "8000:80"
       environment: 
         VIRTUAL_HOST: irabu.co.tz
+        VIRTUAL_PORT: 8000
         LETSENCRYPT_HOST: irabu.co.tz
         LETSENCRYPT_EMAIL: info@irabu.co.tz
 
