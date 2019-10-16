@@ -30,8 +30,8 @@ services:
       ports:
        - "80"
       environment: 
-        VIRTUAL_HOST: irabu.dev
-        LETSENCRYPT_HOST: irabu.dev
+        VIRTUAL_HOST: irabu.co.tz, irabu.dev
+        LETSENCRYPT_HOST: irabu.co.tz, irabu.dev
         LETSENCRYPT_EMAIL: info@irabu.co.tz
 
     php-fpm:
