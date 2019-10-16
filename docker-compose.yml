@@ -27,6 +27,8 @@ services:
       volumes:
           - .:/application
           - ./phpdocker/nginx/nginx.conf:/etc/nginx/conf.d/default.conf
+      depends_on: # start this container after the dependencies
+       - php-fpm
       ports:
        - "80"
       environment: 
