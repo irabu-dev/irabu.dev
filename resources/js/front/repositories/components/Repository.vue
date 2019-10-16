@@ -18,7 +18,7 @@
                 </span>
                 {{ repository.formatted_star_count }} <span class="icon fill-grey"><StarIcon /></span>
                 <a v-if="repository.has_issues" :href="repository.issues_url" target="_blank" rel="nofollow noreferrer noopener"
-                    class="bg-green-lightest text-green-dark rounded-full px-2 ml-2">
+                    class="bg-green-lightest text-blue-600 rounded-full px-2 ml-2">
                     easy issues
                 </a>
                 <span v-if="repository.is_new" class="bg-gold-lightest text-gold-darkest rounded-full px-2 ml-2">

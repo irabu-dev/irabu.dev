@@ -1,5 +1,5 @@
 @extends('layout.default', [
-    'backgroundOffline' => '/images/offline.jpg',
+    'backgroundOffline' => '/images/404.jpg',
     'title' => 'Network unavailable',
     ])
 

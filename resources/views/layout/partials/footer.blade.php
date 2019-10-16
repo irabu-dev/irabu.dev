@@ -1,4 +1,4 @@
-<footer class="bg-grey-lightest gradient-linear shadow-inner-light | print:shadow-none print:bg-transparent print:gradient-none" style="--gradient-angle: 120deg; --gradient-from:#f3efea; --gradient-to:#e1ded9;">
+<footer class="bg-grey-lightest | print:shadow-none print:bg-transparent print:gradient-none">
     <div class="flex-none pt-16 pb-8 | print:pb-2" role="navigation">
         <div class="wrap links links-grey leading-loose | md:leading-normal">
             @include('layout.partials.menu')

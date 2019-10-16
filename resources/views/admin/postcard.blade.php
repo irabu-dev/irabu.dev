@@ -9,7 +9,7 @@
             <div class="spanx-6">
 
                 @if(session('message'))
-                    <div class="bg-green-lightest text-green-dark px-4 py-3 mb-8">{{ session('message') }}</div>
+                    <div class="bg-green-lightest text-blue-600 px-4 py-3 mb-8">{{ session('message') }}</div>
                 @endif
 
                 <h3 class="title">Add a post card</h3>

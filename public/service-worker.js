@@ -21,7 +21,7 @@ self.addEventListener('install', event => {
                     fetch(request).then(response => cache.put(request, response));
                 });
 
-                return cache.addAll(['/css/front.css', '/js/app.js', '/images/offline.jpg', offlineUrl]);
+                return cache.addAll(['/css/front.css', '/js/app.js', '/images/404.jpg', offlineUrl]);
             })
             .then(() => {
                 return self.skipWaiting();

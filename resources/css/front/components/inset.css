@@ -47,8 +47,8 @@
 
 .inset-grey {
     --gradient-angle: 120deg;
-    --gradient-from: #f3efea;
-    --gradient-to: #e1ded9;
+    --gradient-from: #f5f5fa;
+    --gradient-to: #FDFDFE;
 
     @apply inset;
     @apply bg-grey-lighter;

@@ -26,16 +26,17 @@
         </div>
 
         <p class="mt-8 text-xl">In short: we'd like to be a <strong>substantial part</strong> of your project. <br>
-            Read more on <a class="link-underline link-blue" href="{{ route('web-development') }}">how we work</a>, or <a href="{{ mailto(
-'A good match!',
-'Tell us as much as you can about
-- your online project
-- your planning
-- your budget
-- …
+            Read more on <a class="link-underline link-blue" href="{{ route('web-development') }}">how we work</a>,
+            or <a href="{{ mailto(
+                'A good match!',
+                'Tell us as much as you can about
+                - your online project
+                - your planning
+                - your budget
+                - …
 
-Anything that helps us to start straightforward!'
-) }}" class="link-underline link-blue">get in touch</a>!
+                Anything that helps us to start straightforward!'
+                ) }}" class="link-underline link-blue">get in touch</a>!
         </p>
     </div>
 </div>

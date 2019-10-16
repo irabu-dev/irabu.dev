@@ -7,6 +7,6 @@
 
 @isset($backgroundOffline)
     <div class="wallpaper">
-        <img src="/images/offline.jpg" width="2400" alt="">
+        <img src="/images/404.jpg" width="2400" alt="">
     </div>
 @endisset

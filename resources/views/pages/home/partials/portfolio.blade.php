@@ -9,7 +9,7 @@
             <div class="markup links-blue links-underline">
                 <h3 class="title">
                     Gorocket
-                    <div class="title-subtext text-green-dark">
+                    <div class="title-subtext text-blue-600">
                         <span class="font-normal">Using</span> Neo4j, Laravel, Vue, Elasticsearch
                     </div>
                 </h3>
