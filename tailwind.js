@@ -1,18 +1,12 @@
 /*
-
 Tailwind - The Utility-First CSS Framework
-
 A project by Adam Wathan (@adamwathan), Jonathan Reinink (@reinink),
 David Hemphill (@davidhemphill) and Steve Schoger (@steveschoger).
-
 Welcome to the Tailwind config file. This is where you can customize
 Tailwind specifically for your project. Don't be intimidated by the
 length of this file. It's really just a big JavaScript object and
 we've done our very best to explain each section.
-
 View the full documentation at https://tailwindcss.com.
-
-
 |-------------------------------------------------------------------------------
 | The default config
 |-------------------------------------------------------------------------------
@@ -54,7 +48,7 @@ var colors = {
     gold: '#a89f81',
     'gold-darkest': '#51492c',
 
-    'grey-lightest': '#f5f5fa',
+    'grey-lightest': '#f3efea',
     'grey-lighter': '#cbd2ce',
     'grey-light': '#b8bfbb',
     grey: '#767575',
@@ -65,7 +59,7 @@ var colors = {
     'blue-lightest': '#cae1e8',
     'blue-lighter': '#22a4c9',
     'blue-light': '#22a4c9',
-    blue: '#4098E5',
+    blue: '#197593',
     'blue-dark': '#004966',
     'blue-darker': '#172a3d',
     'blue-darkest': '#172a3d',
@@ -404,6 +398,7 @@ module.exports = {
         '10': '2.5rem',
         '12': '3rem',
         '16': '4rem',
+        '18': '4.5rem',
         '20': '5rem',
         '24': '6rem',
         '32': '8rem',
@@ -452,6 +447,8 @@ module.exports = {
         '10': '2.5rem',
         '12': '3rem',
         '16': '4rem',
+        '18': '4.5rem',
+        '20': '5rem',
         '24': '6rem',
         '32': '8rem',
         '48': '12rem',
