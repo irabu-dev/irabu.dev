@@ -13,7 +13,7 @@ mix.version()
         // Our own set of PostCSS plugins.
         postCss: [
             require('postcss-easy-import')(),
-            require('tailwindcss')('./tailwind.js'),
+            require('tailwindcss')('./tailwind.config.js'),
             require('postcss-cssnext')({
                 features: {
                     rem: false,
