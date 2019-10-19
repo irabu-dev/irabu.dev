@@ -2,7 +2,7 @@
     <div class="wrap-8 section">
         <div class="sm:spanx-4 | md:startx-2 md:spanx-3 md:-ml-32 md:mr-16">
             <a href="https://app.gorocket.co" class="illustration is-left h-full" title="app.gorocket.co">
-                {{ image('portfolio/stmpd.jpg') }}
+                {{ image('portfolio/final.png') }}
             </a>
         </div>
         <div class="sm:spanx-3 sm:startx-5 | self-center">
