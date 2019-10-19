@@ -59,10 +59,9 @@ return [
     ],
 
     'rss' => [
-        'https://murze.be/feed/originals',
-        'https://sebastiandedeyne.com/feed/articles',
-        'https://www.stitcher.io/rss',
-        'https://alexvanderbist.com/feed',
+        'https://medium.com/feed/@mtuchi',
+        'https://medium.com/feed/@lupyanambembati',
+        'https://medium.com/feed/@irabu',
     ],
 
     'instagram' => [
