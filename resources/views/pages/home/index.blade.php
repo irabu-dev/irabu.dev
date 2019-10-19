@@ -15,6 +15,6 @@
         @include('pages.home.partials.clients')
     </div>
 
-    @include('pages.home.partials.open-source')
+    {{-- @include('pages.home.partials.open-source') --}}
 
 @endsection
