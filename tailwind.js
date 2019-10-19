@@ -48,8 +48,8 @@ var colors = {
     gold: '#a89f81',
     'gold-darkest': '#51492c',
 
-    'grey-lightest': '#f3efea',
-    'grey-lighter': '#cbd2ce',
+    'grey-lightest': '#f5f5f5',
+    'grey-lighter': '#ebeaeb',
     'grey-light': '#b8bfbb',
     grey: '#767575',
     'grey-dark': '#686666',
