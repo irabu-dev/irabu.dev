@@ -9,6 +9,6 @@
 <meta name="description" content="{{ $description ?? '' }}">
 <meta property="og:title" content="{{ $ogTitle ?? $title ?? '' }}"/>
 <meta property="og:description" content="{{ $ogDescription ?? $description ?? '' }}"/>
-<meta property="og:image" content="{{ $ogImage ?? url('/images/social.jpg') }}"/>
+<meta property="og:image" content="{{ $ogImage ?? url('/images/social.png') }}"/>
 <meta property="og:url" content="{{ request()->getUri() }}"/>
 <meta property="og:type" content="website" />
