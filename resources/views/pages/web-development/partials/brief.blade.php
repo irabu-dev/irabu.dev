@@ -24,7 +24,7 @@
         </div>
     </div>
     <div class="wrap mt-32">
-        <div class="inset-green">
+        <div class="inset-blue">
             <div class="wrap-inset md:items-start" style="--cols: 1fr 1fr">
                 <h2 class="title-xl">
                     <a class="link-white link-underline" href="{{ mailto(

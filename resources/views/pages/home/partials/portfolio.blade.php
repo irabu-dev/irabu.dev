@@ -15,7 +15,7 @@
                 </h3>
                 <p class="text-lg">
                     One of our proud product is <a href="https://gorocket.co" target="_blank" rel="nofollow noreferrer noopener">gorocket.co</a>.
-                    GoRocket is a simple, instinctive and customizable cloud based tool that helps you manage your leads,
+                    Gorocket is a simple, instinctive and customizable cloud based tool that helps you manage your leads,
                     sales and product delivery processes; ultimately boosting sales and productivity!
                 </p>
                 <ul class="text-lg mt-8">

@@ -10,7 +10,7 @@
 
     <div class="section-group pt-0 section-fade | sm:-mt-16">
         @include('pages.laravel.partials.intro')
-        @include('pages.laravel.partials.proof')
+        {{-- @include('pages.laravel.partials.proof') --}}
         @include('pages.laravel.partials.stack')
     </div>
 

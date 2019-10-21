@@ -175,7 +175,7 @@
         </section>
         <section id="cta" class="section">
             <div class="wrap">
-                <div class="inset-green">
+                <div class="inset-blue">
                     <div class="wrap-inset md:items-end" style="--cols: 1fr 1fr">
                         <div class="links-underline links-white">
                             <p class="text-2xl">

@@ -36,8 +36,8 @@
 
 .inset-blue {
     --gradient-angle: 120deg;
-    --gradient-from: #cae1e8;
-    --gradient-to: #e2f1f3;
+    --gradient-from: #4098E5;
+    --gradient-to: #74B4EC;
 
     @apply inset;
     @apply bg-blue-lightest;
