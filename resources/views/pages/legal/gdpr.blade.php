@@ -27,7 +27,7 @@
                     <p>The contact person for questions relating to this addendum is:</p>
                     <address>
                         E-mail: <a href="mailto:support@irabu.co.tz">support@irabu.co.tz</a><br>
-                        +255 716 223 723 <br>
+                        +255 744 650 849 <br>
                         Makingira Street<br>
                         Dar es Salaam<br>
                         Tanzania<br>

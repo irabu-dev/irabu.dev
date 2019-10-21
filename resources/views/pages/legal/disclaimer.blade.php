@@ -39,7 +39,7 @@
                         Dar es Salaam<br>
                         Tanzania<br>
                         E-mail: <a href="mailto:info@irabu.co.tz">info@irabu.co.tz</a><br>
-                        Telefoon: +255 3 716 223 723 <br>
+                        Telefoon: +255 3 744 650 849 <br>
                     </address>
                     <p>
                         Please feel free to contact us if you have further questions or comments.

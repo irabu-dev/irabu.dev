@@ -9,12 +9,12 @@
     @include('pages.web-development.partials.banner')
 
     <div class="section-group pt-0 section-fade">
-        @include('pages.web-development.partials.intro')
+        {{-- @include('pages.web-development.partials.intro') --}}
         @include('pages.web-development.partials.process')
         @include('pages.web-development.partials.cta')
         @include('pages.web-development.partials.clients')
     </div>
 
-    @include('pages.web-development.partials.brief')
+    {{-- @include('pages.web-development.partials.brief') --}}
 
 @endsection

@@ -2,9 +2,8 @@
     <span>
         <a class="link link-black" href="mailto:info@irabu.co.tz">info@irabu.co.tz</a>
         <br>
-        <a class="link link-black" href="https://twitter.com/intent/tweet?text=Dear+@irabudev+…" target="_blank" rel="noreferrer noopener">@irabudev</a>
-        <br>
-        <a class="link link-black" href="#tel">+255 716 223 723</a>
+        
+        <a class="link link-black" href="#tel">+255 744 650 849</a>
     </span>
     <a class="group block link link-black" href="https://goo.gl/maps/mxz4TfEfKQciCeog8" target="_blank" rel="noreferrer noopener">
             Irabu Systems ltd
@@ -17,12 +16,13 @@
     </a>
     @isset($financialContacts)
         <span class="text-xs mt-2 leading-loose">
-            <span class="w-8 inline-block text-grey">TIN</span> BE0809.387.596
+            <a class="link link-black" href="https://github.com/irabu-dev" target="_blank" rel="noreferrer noopener">Github</a>
             <br>
-            {{-- IBAN nr spaced out for readability but selectable with double click. --}}
-            {{-- <span class="w-8 inline-block text-grey">IBAN</span> BE66<span class=ml-1>3631</span><span class=ml-1>2787</span><span class=ml-1>5443</span>
+            <a class="link link-black" href="https://linkedin.com/company/irabu" target="_blank" rel="noreferrer noopener">Linkedin</a>
             <br>
-            <span class="w-8 inline-block text-grey">BIC</span> BBRUBEBB --}}
+            <a class="link link-black" href="https://www.instagram.com/irabudev" target="_blank" rel="noreferrer noopener">Instagram</a>
+            <br>
+            <a class="link link-black" href="https://twitter.com/intent/tweet?text=Dear+@irabudev+…" target="_blank" rel="noreferrer noopener">Twitter</a>
         </span>
     @endisset
 </p>

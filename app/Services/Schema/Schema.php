@@ -14,7 +14,7 @@ class Schema
         return Builder::localBusiness()
             ->name('Irabu')
             ->email('info@irabu.co.tz')
-            ->telephone('+255 716 223 723')
+            ->telephone('+255 744 650 849')
             ->vatID('BE0809.387.596')
             ->url([
                 'https://irabu.dev',

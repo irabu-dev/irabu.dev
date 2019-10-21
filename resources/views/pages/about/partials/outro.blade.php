@@ -8,7 +8,7 @@
         <div class="sm:spanx-4">
             <div class="markup links-underline links-blue">
                 <p class="text-lg">
-                    We are a creative digital agency with a core quest of <strong>build for simplicity</strong> — since 2014.
+                    We are a creative digital agency with a core quest of <strong>build to simplify</strong> — since 2013.
                 </p>
                 <p class="text-lg">
                     We use human-centered software design tools and techniques to gain a better understanding of users needs and improve the efficacy of their products.

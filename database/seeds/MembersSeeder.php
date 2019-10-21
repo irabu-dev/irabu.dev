@@ -8,7 +8,7 @@ class MembersSeeder extends Seeder
     protected $members = [
         'julius@irabu.co.tz' => [
             'first_name' => 'Julius',
-            'last_name' => 'Theodore Moshiro',
+            'last_name' => 'Theodory',
             'role' => 'Founder & Managing Director',
             'description' => 'Aspired to make simple solutions to everyday  problems',
             'twitter' => 'juliusmoshiro ',
@@ -30,7 +30,7 @@ class MembersSeeder extends Seeder
 
         'lupyana@irabu.co.tz' => [
             'first_name' => 'Lupyana',
-            'last_name' => 'Nabothi Mbembati',
+            'last_name' => 'Mbembati',
             'role' => 'Fullstack Developer',
             'description' => 'Is there something this guy can\'t do? 🤔',
             'twitter' => '_lupyana',
@@ -38,11 +38,11 @@ class MembersSeeder extends Seeder
             'public_email' => true,
         ],
 
-        'nyiti@irabu.co.tz' => [
+        'stewart@irabu.co.tz' => [
             'first_name' => 'Stewart',
-            'last_name' => 'Raymond Nyiti',
-            'role' => 'Developer',
-            'description' => 'He work in different timezone, When everybody is asleep he is debuging some code.',
+            'last_name' => 'Raymond',
+            'role' => 'Fullstack Developer',
+            'description' => 'He works in different timezone, When everybody is asleep he is debuging some code.',
             'twitter' => '',
             'public_email' => true,
         ],

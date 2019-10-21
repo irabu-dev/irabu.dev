@@ -2,13 +2,12 @@
     <div class="wrap-6 grid-flow-dense">
         <div class="sm:spanx-6">
             <div class="markup links-underline links-blue">
-                <h3 class="title">Our strength</h3>
+                <h3 class="title">status quo</h3>
                 <p class="text-lg">
-                    Tailor-made web development is what we do best. We love every new challenge as the next, and try to extract common patterns.
+                    Good design is good business
                 </p>
                 <p class="text-lg">
-                    This has left us with a collection of <a href="{{ route('open-source.index') }}">solid building blocks</a> to play with, plus a sense of what makes a web project great.
-                    <br>Moreover, we can lean on the shoulders of frameworks like <a href="{{ route('laravel') }}">Laravel &amp; Vue</a> to take giant leaps.
+                    Less is only more when more is no good  <a href="{{ route('open-source.index') }}">see what we mean by that</a> 
                 </p>
             </div>
         </div>

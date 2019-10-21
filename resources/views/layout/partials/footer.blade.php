@@ -20,7 +20,7 @@
                     <div>
                         <a href="mailto:info@irabu.co.tz">info@irabu.co.tz</a>
                         <br>
-                        <a href="#tel">+255 716 223 723</a>
+                        <a href="#tel">+255 744 650 849</a>
                     </div>
                 </address>
                 <ul class="hidden grid-flow-column gapx-8 | sm:block md:order-0 md:grid | print:hidden">
