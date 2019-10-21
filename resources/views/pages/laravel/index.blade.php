@@ -1,5 +1,5 @@
 @extends('layout.default', [
-    'background' => '/backgrounds/laravel.jpg',
+    // 'background' => '/backgrounds/code.jpg',
     'title' => 'Laravel & Vue',
     'description' => 'About our preferred tools to build modern web applications. Read more on our technology stack and hire us as a team for your Laravel project',
 ])
