@@ -1,5 +1,5 @@
 @extends('layout.default', [
-    // 'background' => '/backgrounds/code.jpg',
+    'background' => '/backgrounds/spider.jpg',
     'title' => 'Our Process',
     'description' => 'Tailor-made web development is what we do best. Read about our strengths, our thoughtful process and our beloved clients.',
 ])

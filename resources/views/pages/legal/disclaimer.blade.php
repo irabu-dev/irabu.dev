@@ -1,5 +1,5 @@
 @extends('layout.default', [
-    'background' => '/backgrounds/legal.jpg',
+    'background' => '/backgrounds/time.jpg',
     'title' => 'Disclaimer',
     'description' => 'Our disclaimer. Yes, we have one too.',
 ])

@@ -1,5 +1,5 @@
 @extends('layout.default', [
-    'background' => '/backgrounds/set.jpg',
+    'background' => '/backgrounds/dar.jpg',
     'title' => 'Building to Simplify',
     'description' => 'At irabu we craft SIMPLE & VALUABLE solutions to everday challengess.',
 ])

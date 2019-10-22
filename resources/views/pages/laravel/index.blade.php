@@ -1,5 +1,5 @@
 @extends('layout.default', [
-    // 'background' => '/backgrounds/code.jpg',
+    'background' => '/backgrounds/code.jpg',
     'title' => 'Design & Development',
     'description' => 'About our preferred tools to build modern web applications. Read more on our technology stack and hire us as a team',
 ])
