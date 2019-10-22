@@ -7,55 +7,55 @@
             <div class="markup text-sm">
                 <h3 class="title-sm">Frontend</h3>
                 <ul class="bullets-inline bullets-blue">
-                    <li>Vue.js</li>
-                    <li>Vanilla JS</li>
-                    <li>Tailwind CSS</li>
-                    <li>Saas</li>
-                    <li>Yarn</li>
-                    <li>Webpack</li>
-                </ul>
-                <h3 class="title-sm">Services</h3>
-                <ul class="bullets-inline bullets-blue">
-                    <li>Brand Identity</li>
-                    <li>Email Delivery Services</li>
-                    <li>Google Analytics</li>
+                    <li>Deskto Apps</li>
+                    <li>Mobile Apps</li>
+                    <li>Web Apps </li>
+                    <li>UI & UX Design</li>
                 </ul>
             </div>
         </div>
         <div class="line-l | sm:spanx-3 | md:spanx-2">
-                <div class="markup text-sm">
-                    <h3 class="title-sm">Backend</h3>
-                    <ul class="bullets-inline bullets-blue">
-                        <li>Laravel</li>
-                        <li>PHP</li>
-                        <li>MySQL</li>
-                        <li>Elasticsearch</li>
-                        <li>Neo4J</li>
-                    </ul>
-                    <h3 class="title-sm">Integrations</h3>
-                    <ul class="bullets-inline bullets-blue">
-                        <li>Mobile Payment API</li>
-                    </ul>
-                </div>
+            <div class="markup text-sm">
+                <h3 class="title-sm">Consultancy</h3>
+                <ul class="bullets-inline bullets-blue">
+                    <li>Cloud Infrastructure Design</li>
+                    <li>Ideation</li>
+                    <li>Planning & Management</li>
+                    <li>Support & Maintenance</li>
+                </ul>
             </div>
+        </div>
+        <div class="line-l | sm:spanx-3 | md:spanx-2">
+            <div class="markup text-sm">
+                <h3 class="title-sm">Backend</h3>
+                <ul class="bullets-inline bullets-blue">
+                    <li>Server Apps</li>
+                    <li>Data Mining & Processing</li>
+                    <li>Artificial Inteligence</li>
+                    <li>Cloud Computing</li>
+                    <li>Integrations (Banks, MNOs, APIs etc)</li>
+                </ul>
+            </div>
+        </div>
         <div class="line-l | sm:spanx-3 | md:spanx-2">
             <div class="markup text-sm">
                 <h3 class="title-sm">IoT and big data platform</h3>
                 <ul class="bullets-inline bullets-blue">
+                    <li>Microcontrollers</li>
                     <li>IoT Gateway</li>
                     <li>IoT app</li>
                     <li>Big data management</li>
                 </ul>
             </div>
         </div>
-        
+
         <div class="line-l | sm:spanx-3 | md:spanx-2">
             <div class="markup text-sm">
-                <h3 class="title-sm">Server</h3>
+                <h3 class="title-sm">Teaching</h3>
                 <ul class="bullets-inline bullets-blue">
-                    <li>Digital Ocean</li>
-                    <li>S3</li>
-                    <li>Nginx</li>
+                    <li>
+                        <a href="https://twitter.com/JengaHub" target="_blank" rel="noreferrer noopener">Jenga Hub</a>
+                    </li>
                 </ul>
             </div>
         </div>

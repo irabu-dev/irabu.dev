@@ -2,7 +2,7 @@
     <div class="wrap">
         <div class="inset-blue">
             <div class="wrap-inset md:items-end" style="--cols: 1fr 1fr">
-                <p class="text-2xl">
+                <p class="text-2xl text-white">
                     Do you think this approach <br>would fit you?
                 </p>
                 <h2 class="title-xl | grid-text-right">

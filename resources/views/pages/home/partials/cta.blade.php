@@ -8,7 +8,7 @@
                     and discuss your idea.
                 </p>
                 <h2 class="title-xl | grid-text-right">
-                    Let's <a class="link-white link-underline" href="#match">Get in-touch.</a>
+                    Let's <a class="link-white link-underline" href="#match">talk.</a>
                 </h2>
             </div>
         </div>

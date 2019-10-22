@@ -3,13 +3,13 @@
         <div class="inset-blue">
             <div class="wrap-inset md:items-end" style="--cols: 1fr 2fr">
                 <div class="links-underline links-white">
-                    <p class="text-2xl">
+                    <p class="text-2xl text-white">
                         Enough about us.
                     </p>
                 </div>
                 <h2 class="title-xl | grid-text-right">
                     <a class="link-white link-underline" href="{{ mailto(
-'Why I\'m considering Spatie',
+'Why I\'m considering Irabu',
 'Tell us as much as you can about
 - your online project
 - your planning

@@ -1,20 +1,20 @@
 @extends('layout.default', [
-    // 'background' => '/backgrounds/caged.jpg',
-    'title' => 'Websites & webapplications in Laravel',
-    'description' => 'Spatie is a digital allrounder: we design solid websites & web applications using Laravel & Vue. No frills, just proven expertise. From Antwerp, Tanzania',
+    'background' => '/backgrounds/set.jpg',
+    'title' => 'Building to Simplify',
+    'description' => 'At irabu we craft SIMPLE & VALUABLE solutions to everday challengess.',
 ])
 
 @section('content')
 
-    @include('pages.home.partials.banner')
-    @include('pages.home.partials.news')
+@include('pages.home.partials.banner')
+@include('pages.home.partials.news')
 
-    <div class="section-group">
-        @include('pages.home.partials.portfolio')
-        @include('pages.home.partials.cta')
-        @include('pages.home.partials.clients')
-    </div>
+<div class="section-group">
+    @include('pages.home.partials.portfolio')
+    @include('pages.home.partials.cta')
+    @include('pages.home.partials.clients')
+</div>
 
-    {{-- @include('pages.home.partials.open-source') --}}
+{{-- @include('pages.home.partials.open-source') --}}
 
 @endsection

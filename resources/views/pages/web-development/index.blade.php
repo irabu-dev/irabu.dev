@@ -8,7 +8,7 @@
 
     @include('pages.web-development.partials.banner')
 
-    <div class="section-group pt-0 section-fade">
+    <div class="section-group pt-0">
         {{-- @include('pages.web-development.partials.intro') --}}
         @include('pages.web-development.partials.process')
         @include('pages.web-development.partials.cta')
