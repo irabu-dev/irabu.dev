@@ -12,7 +12,7 @@
                 Legal stuff
             </h1>
             <p class="banner-intro">
-                Please don't sue us
+                Let's agree on some stuffs
             </p>
         </div>
     </section>
@@ -26,9 +26,6 @@
                     <ul class="links-underline links-blue">
                         <li class=mt-4>
                             <a href="{{ route('legal.conditions')}}">General conditions</a>
-                        </li>
-                        <li class=mt-4>
-                            <a href="{{ route('legal.gdpr')}}">GDPR addendum</a>
                         </li>
                     </ul>
                 </div>

@@ -1,5 +1,5 @@
 @extends('layout.default', [
-    'background' => '/backgrounds/legal.jpg',
+    'background' => '/backgrounds/time.jpg',
     'title' => 'GDPR Addendum',
     'description' => 'Addendum to our general conditions.',
     ])
