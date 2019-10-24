@@ -1,5 +1,5 @@
 @extends('layout.default', [
-    'background' => '/backgrounds/time.jpg',
+    // 'background' => '/backgrounds/time.jpg',
     'title' => 'General conditions',
     'description' => 'Our general terms and conditions for clients.',
     ])
@@ -299,7 +299,7 @@
                             The agreement between Irabu and the client shall be governed by Belgian law.
                         </li>
                         <li>
-                            All disputes relating to these terms and conditions or agreements concluded by a Irabu will always be decided by the courts of the district of Antwerp, Tanzania.
+                            All disputes relating to these terms and conditions or agreements concluded by a Irabu will always be decided by the courts of the district of Tanzania, Tanzania.
                         </li>
                     </ol>
 

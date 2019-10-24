@@ -15,12 +15,12 @@ class Schema
             ->name('Irabu')
             ->email('info@irabu.co.tz')
             ->telephone('+255 744 650 849')
-            ->vatID('BE0809.387.596')
+            ->vatID('')
             ->url([
                 'https://irabu.dev',
                 'https://twitter.com/irabudev',
             ])
-            ->image('https://irabu.dev/images/og-image.jpg')
+            ->image('https://irabu.dev/images/social.png')
             ->address($this->address())
             ->founders($this->founders())
             ->employees($this->employees());
@@ -29,7 +29,7 @@ class Schema
     protected function address(): PostalAddress
     {
         return Builder::postalAddress()
-            ->addressLocality('Antwerp')
+            ->addressLocality('Tanzania')
             ->addressRegion('Dar es Salaam')
             ->postalCode(31890)
             ->streetAddress('Makingira Street')

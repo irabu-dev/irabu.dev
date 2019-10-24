@@ -22,7 +22,7 @@
         </div>
         <div class="hidden | sm:block sm:spanx-3 sm:startx-6">
             <a class="illustration is-right is-rotated is-postcard-without-caption h-full" href="{{ route('open-source.postcards') }}" title="Postcards">
-                {{ image('open-source.jpg') }}
+                {{-- {{ image('open-source.jpg') }} --}}
             </a>
         </div>
         <div class="hidden | sm:block sm:spanx-5 sm:startx-4 | text-right text-sm links-underline links-blue">

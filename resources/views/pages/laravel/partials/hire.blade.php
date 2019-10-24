@@ -32,7 +32,7 @@ Anything that helps us to start straightforward!'
         <div class="sm:spanx-3 sm:startx-6">
             <a class="illustration is-right is-rotated is-postcard-without-caption h-full"
                 href="{{ route('about') }}#team">
-                {{ image('hire.jpg') }}
+                {{-- {{ image('hire.jpg') }} --}}
             </a>
         </div>
     </div>

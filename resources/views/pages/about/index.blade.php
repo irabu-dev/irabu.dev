@@ -1,5 +1,5 @@
 @extends('layout.default', [
-    'background' => '/backgrounds/set.jpg',
+    // 'background' => '/backgrounds/set.jpg',
     'title' => 'About us',
     'description' => 'Contact us on info@irabu.co.tz or +255 744 650 849. See our contact details and get to know our team.',
 ])

@@ -1,5 +1,5 @@
 @extends('layout.default', [
-    'background' => '/backgrounds/time.jpg',
+    // 'background' => '/backgrounds/time.jpg',
     'title' => 'Disclaimer',
     'description' => 'Our disclaimer. Yes, we have one too.',
 ])
@@ -109,7 +109,7 @@
                         We retain the freedom to make changes to our website and related services at any time, to expand, limit or stop them. This can be done without prior notification of the User and neither gives rise to any form of compensation.
                     </p>
                     <p>
-                        These general terms and conditions (including the terms and conditions of sale) are exclusively governed by and interpreted in accordance with Belgian law. All disputes relating to or arising from offers of Irabu, or agreements that are concluded with it shall be submitted to the competent court of the  judicial district of Antwerp.
+                        These general terms and conditions (including the terms and conditions of sale) are exclusively governed by and interpreted in accordance with Belgian law. All disputes relating to or arising from offers of Irabu, or agreements that are concluded with it shall be submitted to the competent court of the  judicial district of Tanzania.
                     </p>
                     <p>
                         If the operation or validity of one or more of the above provisions of these general terms and conditions will be in jeopardy, this will have no effect on the validity of the remaining provisions of this agreement. In such case we have the right to change the provision concerned with a valid provision of similar effect.

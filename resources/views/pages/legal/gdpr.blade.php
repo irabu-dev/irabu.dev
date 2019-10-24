@@ -1,5 +1,5 @@
 @extends('layout.default', [
-    'background' => '/backgrounds/time.jpg',
+    // 'background' => '/backgrounds/time.jpg',
     'title' => 'GDPR Addendum',
     'description' => 'Addendum to our general conditions.',
     ])
@@ -339,7 +339,7 @@
                             Titles and subtitles in this agreement are deemed to be merely illustrative.
                         </li>
                         <li>
-                            This agreement is governed by Belgian law. In the event of any dispute concerning the implementation of this agreement, the Parties are expected to make all efforts to find and amicable solution. The Parties will draw up a reasonable interpretation of this Agreement. In the absence of an amicable solution, the dispute can be submitted to a centre of arbitration and mediation (such as CEPANI) or a competent court. The exclusive competent court is the court of the judicial district of Antwerp, being the district in which the registered office of the Processor is located.
+                            This agreement is governed by Belgian law. In the event of any dispute concerning the implementation of this agreement, the Parties are expected to make all efforts to find and amicable solution. The Parties will draw up a reasonable interpretation of this Agreement. In the absence of an amicable solution, the dispute can be submitted to a centre of arbitration and mediation (such as CEPANI) or a competent court. The exclusive competent court is the court of the judicial district of Tanzania, being the district in which the registered office of the Processor is located.
                         </li>
                     </ol>
                 </div>

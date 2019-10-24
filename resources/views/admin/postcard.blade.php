@@ -47,7 +47,7 @@
                         <div class="mt-4 grid grid-cols gap-4" style="--cols: 1fr 1fr">
                             <div class="">
                                 <label class="text-grey" for="city">City</label><br/>
-                                <input class="border-2 border-grey-lighter bg-white rounded p-4 outline-0 w-full focus:border-blue" type="text" name="city" placeholder="Antwerp">
+                                <input class="border-2 border-grey-lighter bg-white rounded p-4 outline-0 w-full focus:border-blue" type="text" name="city" placeholder="Tanzania">
                             </div>
 
                             <div>

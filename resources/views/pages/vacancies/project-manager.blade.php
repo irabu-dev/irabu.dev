@@ -1,7 +1,7 @@
 @extends('layout.default', [
     'background' => '/backgrounds/vacancies.jpg',
     'title' => 'Project manager vacancy',
-    'description' => 'Vacancy for a digital project manager. Location: Antwerp.',
+    'description' => 'Vacancy for a digital project manager. Location: Tanzania.',
 ])
 
 @section('content')

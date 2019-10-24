@@ -2,7 +2,7 @@
     <div class="wrap-8">
         <div class="sm:spanx-3">
             <span class="illustration is-left is-rotated is-postcard-without-caption h-full">
-                {{ image('robots.jpg') }}
+                {{-- {{ image('robots.jpg') }} --}}
             </span>
         </div>
         <div class="sm:spanx-3 sm:startx-5">

@@ -1,7 +1,7 @@
 @extends('layout.default', [
         'background' => '/backgrounds/vacancies.jpg',
     'title' => 'Backend developer vacature',
-    'description' => 'Vacature voor een backend developer. Locatie: Antwerpen.',
+    'description' => 'Vacature voor een backend developer. Locatie: Tanzaniaen.',
 ])
 
 @section('content')
@@ -64,7 +64,7 @@
                                 <li><span class="icon">{{ svg('icons/far-angle-right') }}</span> Hospitalisatieverzekering</li>
                                 <li><span class="icon">{{ svg('icons/far-angle-right') }}</span> Maaltijdcheques</li>
                                 <li><span class="icon">{{ svg('icons/far-angle-right') }}</span> Ecocheques</li>
-                                <li><span class="icon">{{ svg('icons/far-angle-right') }}</span> Vélo kaart voor deelfietsen in Antwerpen</li>
+                                <li><span class="icon">{{ svg('icons/far-angle-right') }}</span> Vélo kaart voor deelfietsen in Tanzaniaen</li>
                                 <li><span class="icon">{{ svg('icons/far-angle-right') }}</span> Laptop + 2<sup>de</sup> scherm, smartphone</li>
                                 <li><span class="icon">{{ svg('icons/far-angle-right') }}</span> Internet thuis</li>
                                 <li><span class="icon">{{ svg('icons/far-angle-right') }}</span> Bose noise-cancelling hoofdtelefoons</li>
@@ -98,7 +98,7 @@
                     </div>
                     <div class="sm:spanx-3 sm:startx-1">
                         <div class="illustration is-left is-postcard is-rotated h-full | sm:mr-8">
-                            {{ image('italian.jpg') }}
+                            {{-- {{ image('italian.jpg') }} --}}
                         </div>
                     </div>
                 </div>

@@ -1,5 +1,5 @@
 @extends('layout.default', [
-        'background' => '/backgrounds/open-source.jpg',
+        // 'background' => '/backgrounds/open-source.jpg',
         'title' => 'Projects',
         'description' => 'Search in our how-grown open source projects, written in Laravel & JavaScript.',
 ])

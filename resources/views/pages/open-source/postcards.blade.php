@@ -1,5 +1,5 @@
 @extends('layout.default', [
-        'background' => '/backgrounds/open-source.jpg',
+        // 'background' => '/backgrounds/open-source.jpg',
         'title' => 'Postcards',
         'description' => 'This is our postcardware license in action.',
 ])

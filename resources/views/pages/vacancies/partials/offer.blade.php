@@ -10,7 +10,7 @@
                     <li><span class="icon">{{ svg('icons/far-angle-right') }}</span> Health insurance</li>
                     <li><span class="icon">{{ svg('icons/far-angle-right') }}</span> Meal vouchers</li>
                     <li><span class="icon">{{ svg('icons/far-angle-right') }}</span> Eco vouchers</li>
-                    <li><span class="icon">{{ svg('icons/far-angle-right') }}</span> Vélo card for public bikes in Antwerp</li>
+                    <li><span class="icon">{{ svg('icons/far-angle-right') }}</span> Vélo card for public bikes in Tanzania</li>
                     <li><span class="icon">{{ svg('icons/far-angle-right') }}</span> Laptop + 2<sup>nd</sup> screen, smartphone</li>
                     <li><span class="icon">{{ svg('icons/far-angle-right') }}</span> Internet at home</li>
                     <li><span class="icon">{{ svg('icons/far-angle-right') }}</span> Bose noise-cancelling headphones</li>
@@ -44,7 +44,7 @@
         </div>
         <div class="sm:spanx-3 sm:startx-1">
             <div class="illustration is-left is-postcard is-rotated h-full | sm:mr-8">
-                {{ image('italian.jpg') }}
+                {{-- {{ image('italian.jpg') }} --}}
             </div>
         </div>
     </div>
