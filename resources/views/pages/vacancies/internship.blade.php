@@ -1,5 +1,5 @@
 @extends('layout.default', [
-    'background' => '/backgrounds/code.jpg',
+    // 'background' => '/backgrounds/code.jpg',
     'title' => 'Internship',
     'description' => 'We are looking for people who practice "positive deviance" and achieve incredible feats of imagination. Location: Dar es Salaam, Tanzania.',
 ])

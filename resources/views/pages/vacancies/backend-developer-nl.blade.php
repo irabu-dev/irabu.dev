@@ -1,5 +1,5 @@
 @extends('layout.default', [
-        'background' => '/backgrounds/vacancies.jpg',
+        // 'background' => '/backgrounds/vacancies.jpg',
     'title' => 'Backend developer vacature',
     'description' => 'Vacature voor een backend developer. Locatie: Tanzaniaen.',
 ])

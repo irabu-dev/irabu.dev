@@ -1,5 +1,5 @@
 @extends('layout.default', [
-    'background' => '/backgrounds/error.jpg',
+    // 'background' => '/backgrounds/error.jpg',
     'title' => 'Server error',
     ])
 
