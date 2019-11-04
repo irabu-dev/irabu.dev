@@ -114,7 +114,7 @@
     <div class=wrap>
         <hr class=line>
     </div>
-    <div class="wrap-6 mt-16">
+    {{-- <div class="wrap-6 mt-16">
         <div class="sm:spanx-6">
             <div class="markup links-underline links-blue">
                 <h3 class="title">From our lab</h3>
@@ -126,5 +126,5 @@
                 </p>
             </div>
         </div>
-    </div>
+    </div> --}}
 </section>
