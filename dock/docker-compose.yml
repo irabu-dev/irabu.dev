@@ -238,8 +238,8 @@ services:
         # - "${NGINX_HOST_HTTP_PORT}:80"
         # - "${NGINX_HOST_HTTPS_PORT}:443"
       environment: 
-        VIRTUAL_HOST: irabu.co.tz, irabu.dev
-        LETSENCRYPT_HOST: irabu.co.tz, irabu.dev
+        VIRTUAL_HOST: www.irabu.co.tz, irabu.co.tz, irabu.dev
+        LETSENCRYPT_HOST: www.irabu.co.tz, irabu.co.tz, irabu.dev
         LETSENCRYPT_EMAIL: info@irabu.co.tz
       depends_on:
         - php-fpm
