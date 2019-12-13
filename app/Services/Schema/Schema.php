@@ -32,7 +32,7 @@ class Schema
             ->addressLocality('Tanzania')
             ->addressRegion('Dar es Salaam')
             ->postalCode(31890)
-            ->streetAddress('Makingira Street')
+            ->streetAddress('Kilongawima Street')
             ->addressCountry('Tanzania');
     }
 

@@ -28,7 +28,7 @@
                     <address>
                         E-mail: <a href="mailto:support@irabu.co.tz">support@irabu.co.tz</a><br>
                         +255 744 650 849 <br>
-                        Makingira Street<br>
+                        Kilongawima Street<br>
                         Dar es Salaam<br>
                         Tanzania<br>
                     </address>

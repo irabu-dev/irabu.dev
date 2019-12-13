@@ -10,7 +10,7 @@
                             <span>
                                 Irabu Systems ltd
                                 <br>
-                                Makingira Street, Dar es Salaam
+                                Kilongawima Street, Dar es Salaam
                             </span>
                             <span class="icon px-2 fill-grey-dark group-hover:fill-pink transition-fill transition-fast | print:hidden">
                                 {{ svg('icons/fas-map-marker-alt') }}

@@ -37,7 +37,7 @@
                     <p>The website irabu.dev is an initiative of: </p>
                     <address>
                         Irabu Systems Ltd.<br>
-                        Makingira Street<br>
+                        Kilongawima Street<br>
                         Dar es Salaam<br>
                         Tanzania<br>
                         Email: <a href="mailto:info@irabu.co.tz">info@irabu.co.tz</a><br>

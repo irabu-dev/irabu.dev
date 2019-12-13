@@ -8,7 +8,7 @@
     <a class="group block link link-black" href="https://goo.gl/maps/mxz4TfEfKQciCeog8" target="_blank" rel="noreferrer noopener">
             Irabu Systems ltd
             <br>
-            Makingira Street <br>Dar es Salaam
+            Kilongawima Street <br>Dar es Salaam
             <span class="icon px-2 fill-pink group-hover:opacity-75 transition-fill transition-fast">
                 {{ svg('icons/fas-map-marker-alt') }}
             </span>
